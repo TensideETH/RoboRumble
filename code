@@ -1,0 +1,10 @@
+// Example program for controlling a robot in C++
+#include <iostream>
+
+int main() {
+    std::cout << "RoboRumble Initialized" << std::endl;
+    
+    // Add robot control code here
+
+    return 0;
+}
