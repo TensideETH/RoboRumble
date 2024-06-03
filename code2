@@ -1,0 +1,13 @@
+// Example program for Arduino robot in C++
+#include <Arduino.h>
+
+void setup() {
+    Serial.begin(9600);
+    Serial.println("RoboRumble Initialized");
+    
+    // Add robot initialization here
+}
+
+void loop() {
+    // Add main robot control code here
+}
